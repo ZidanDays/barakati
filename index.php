@@ -35,7 +35,7 @@ include "navbar.php";
 ?>
 
     <!-- Hero Section Begin -->
-    <section class="hero spad set-bg" data-setbg="img/hero-bg.png">
+    <section class="hero spad set-bg" data-setbg="img/mainbg.jpg">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
@@ -166,7 +166,7 @@ include "navbar.php";
                             <h1>About Us</h1>
                         </div>
                         <p>We fulfill your every need</p>
-                        <a href="#" class="primary-btn">CONTACT ME</a>
+                        <a href="#" class="primary-btn">JOIN US</a>
                     </div>
                 </div>
             </div>
@@ -189,29 +189,43 @@ include "navbar.php";
                         <div class="col-lg-6 p-0 order-lg-1 col-md-6 order-md-1">
                             <div class="service__item deep-bg">
                                 <img src="img/services/service-1.png" alt="">
-                                <h4>Wedding</h4>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod.</p>
+                                <h4>Experience</h4>
+                                <p>Founded in 2021, with expertise in media industri</p>
                             </div>
                         </div>
                         <div class="col-lg-6 p-0 order-lg-2 col-md-6 order-md-2">
                             <div class="service__item">
                                 <img src="img/services/service-2.png" alt="">
-                                <h4>Clubs and bar</h4>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod.</p>
+                                <h4>Technologi</h4>
+                                <p>Release your music just within 1 day (in most circumstances)</p>
                             </div>
                         </div>
-                        <div class="col-lg-6 p-0 order-lg-4 col-md-6 order-md-4">
+                        <div class="col-lg-6 p-0 order-lg-4 col-md-6 order-md-3">
                             <div class="service__item deep-bg">
                                 <img src="img/services/service-4.png" alt="">
-                                <h4>DJ lessons</h4>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod.</p>
+                                <h4>Connection</h4>
+                                <p>Directly connected to 95% platforms</p>
                             </div>
                         </div>
-                        <div class="col-lg-6 p-0 order-lg-3 col-md-6 order-md-3">
+                        <div class="col-lg-6 p-0 order-lg-3 col-md-6 order-md-4">
                             <div class="service__item">
                                 <img src="img/services/service-3.png" alt="">
-                                <h4>Corporate events</h4>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod.</p>
+                                <h4>Coverage</h4>
+                                <p>Delivering to 249 countries & territories</p>
+                            </div>
+                        </div>
+                        <div class="col-lg-6 p-0 order-lg-3 col-md-6 order-md-5">
+                            <div class="service__item">
+                                <img src="img/services/service-3.png" alt="">
+                                <h4>Efficiency</h4>
+                                <p>Clients support, royalties payment, protection of rights, etc</p>
+                            </div>
+                        </div>
+                        <div class="col-lg-6 p-0 order-lg-3 col-md-6 order-md-6">
+                            <div class="service__item">
+                                <img src="img/services/service-3.png" alt="">
+                                <h4>Promotion</h4>
+                                <p>Tailored marketing campaigns</p>
                             </div>
                         </div>
                     </div>
@@ -506,7 +520,15 @@ include "navbar.php";
     </section>
     <!-- Youtube Section End -->
 
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
     <?php
 include "footeer.php";
 ?>
