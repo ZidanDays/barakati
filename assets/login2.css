@@ -1,0 +1,30 @@
+body,
+html {
+  height: 100%;
+}
+
+.card {
+  width: 100%;
+  max-width: 400px;
+  border: none;
+}
+
+.card img {
+  max-width: 270px;
+  margin: 0 auto;
+}
+
+.anjas {
+  background-color: rgb(255, 33, 56);
+  border: none;
+  transition: 0.5s;
+  -webkit-transition: 0.5s;
+  -moz-transition: 0.5s;
+  -ms-transition: 0.5s;
+  -o-transition: 0.5s;
+}
+
+.anjas:hover {
+  background-color: rgb(255, 166, 33);
+  border: none;
+}
