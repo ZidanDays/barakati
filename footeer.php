@@ -8,30 +8,30 @@
                         <li>
                             <i class="fa fa-phone"></i>
                             <p>Phone</p>
-                            <h6>1-677-124-44227</h6>
+                            <h6>082296906125</h6>
                         </li>
                         <li>
                             <i class="fa fa-envelope"></i>
                             <p>Email</p>
-                            <h6>DJ.Music@gmail.com</h6>
+                            <h6>barakatimelodies@gmail.com</h6>
                         </li>
                     </ul>
                 </div>
             </div>
             <div class="col-lg-4 offset-lg-1 col-md-6">
                 <div class="footer__social">
-                    <h2>DJoz</h2>
+                    <h2>Barakati Melodies</h2>
                     <div class="footer__social__links">
-                        <a href="#"><i class="fa fa-facebook"></i></a>
-                        <a href="#"><i class="fa fa-twitter"></i></a>
-                        <a href="#"><i class="fa fa-instagram"></i></a>
-                        <a href="#"><i class="fa fa-dribbble"></i></a>
+                        <a href="https://www.facebook.com/wanvenox88"><i class="fa fa-facebook"></i></a>
+                        <a href="https://www.open.spotify.com/artist/7eiUj3G19VU4haOKhU9J5s"><i class="fa fa-spotify"></i></a>
+                        <a href="https://www.instagram.com/wanvenox88"><i class="fa fa-instagram"></i></a>
+                        <a href="https://www.barakatimelodies@gmail.com"><i class="fa fa-dribbble"></i></a>
                     </div>
                 </div>
             </div>
             <div class="col-lg-3 offset-lg-1 col-md-6">
                 <div class="footer__newslatter">
-                    <h4>Stay With me</h4>
+                    <h4>Join With Us</h4>
                     <form action="#">
                         <input type="text" placeholder="Email">
                         <button type="submit"><i class="fa fa-send-o"></i></button>
@@ -43,8 +43,7 @@
         <div class="footer__copyright__text">
             <p>Copyright &copy; <script>
                 document.write(new Date().getFullYear());
-                </script> All rights reserved | This template is made with <i class="fa fa-heart"
-                    aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a></p>
+                </script> All rights reserved | by <a href="https://colorlib.com" target="_blank">Hello Tech</a></p>
         </div>
         <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
     </div>

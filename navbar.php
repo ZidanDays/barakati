@@ -4,7 +4,7 @@
             <div class="row">
                 <div class="col-lg-2 col-md-2">
                     <div class="header__logo">
-                        <a href="./index.html"><img src="img/logo.png" alt=""></a>
+                    <a href="./index.html"><img src="img/Bm logo-01.png" style="padding-top: 5px; margin-top: 5px;" alt=""></a>
                     </div>
                 </div>
                 <div class="col-lg-10 col-md-10">
@@ -27,10 +27,10 @@
                             </ul>
                         </nav>
                         <div class="header__right__social">
-                            <a href="#"><i class="fa fa-facebook"></i></a>
-                            <a href="#"><i class="fa fa-twitter"></i></a>
-                            <a href="#"><i class="fa fa-instagram"></i></a>
-                            <a href="#"><i class="fa fa-dribbble"></i></a>
+                            <a href="https://www.facebook.com/wanvenox88"><i class="fa fa-facebook"></i></a>
+                            <a href="https://www.open.spotify.com/artist/7eiUj3G19VU4haOKhU9J5s"><i class="fa fa-spotify"></i></a>
+                            <a href="https://www.instagram.com/wanvenox88"><i class="fa fa-instagram"></i></a>
+                            <a href="https://www.wanvenox@gmail.com"><i class="fa fa-mail"></i></a>
                         </div>
                     </div>
                 </div>
