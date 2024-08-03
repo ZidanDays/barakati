@@ -3,11 +3,11 @@
 
 <head>
     <meta charset="UTF-8">
-    <meta name="description" content="DJoz Template">
-    <meta name="keywords" content="DJoz, unica, creative, html">
+    <meta name="description" content="Barakati Melodies">
+    <meta name="keywords" content="Barakati, unica, creative, html">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>DJoz | Template</title>
+    <title>Barakati Melodies</title>
 
     <!-- Google Font -->
     <link href="https://fonts.googleapis.com/css2?family=Rajdhani:wght@400;500;600;700&display=swap" rel="stylesheet">
@@ -40,11 +40,10 @@ include "navbar.php";
             <div class="row">
                 <div class="col-lg-12">
                     <div class="hero__text">
-                        <span>New single</span>
+                        <span>With Barakati Melodies</span>
                         <h1>Feel the heart beats</h1>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod <br />tempor
-                            incididunt ut labore et dolore magna aliqua.</p>
-                        <a href="https://www.youtube.com/watch?v=K4DyBUG242c" class="play-btn video-popup"><i
+                        <p>Lets bring music to thee world together</p>
+                        <a href="https://www.youtube.com/watch?v=LApBDaO89sI&ab_" class="play-btn video-popup"><i
                                 class="fa fa-play"></i></a>
                     </div>
                 </div>
@@ -62,7 +61,7 @@ include "navbar.php";
             <div class="row">
                 <div class="col-lg-12">
                     <div class="section-title">
-                        <h2>Upcoming Events</h2>
+                        <h2>What we do?</h2>
                     </div>
                 </div>
             </div>
@@ -71,12 +70,10 @@ include "navbar.php";
                     <div class="col-lg-4">
                         <div class="event__item">
                             <div class="event__item__pic set-bg" data-setbg="img/events/event-1.jpg">
-                                <div class="tag-date">
-                                    <span>Dec 15, 2019</span>
-                                </div>
+                               
                             </div>
                             <div class="event__item__text">
-                                <h4>David Guetta Miami Ultra</h4>
+                                <h4>Music Distribution</h4>
                                 <p><i class="fa fa-map-marker"></i> Funkhaus Berlin, Berlin, Germany</p>
                             </div>
                         </div>
@@ -84,12 +81,10 @@ include "navbar.php";
                     <div class="col-lg-4">
                         <div class="event__item">
                             <div class="event__item__pic set-bg" data-setbg="img/events/event-2.jpg">
-                                <div class="tag-date">
-                                    <span>Dec 15, 2019</span>
-                                </div>
+                                
                             </div>
                             <div class="event__item__text">
-                                <h4>David Guetta Miami Ultra</h4>
+                                <h4>Rights Management</h4>
                                 <p><i class="fa fa-map-marker"></i> Funkhaus Berlin, Berlin, Germany</p>
                             </div>
                         </div>
@@ -97,12 +92,10 @@ include "navbar.php";
                     <div class="col-lg-4">
                         <div class="event__item">
                             <div class="event__item__pic set-bg" data-setbg="img/events/event-3.jpg">
-                                <div class="tag-date">
-                                    <span>Dec 15, 2019</span>
-                                </div>
+                               
                             </div>
                             <div class="event__item__text">
-                                <h4>David Guetta Miami Ultra</h4>
+                                <h4>Music Production</h4>
                                 <p><i class="fa fa-map-marker"></i> Funkhaus Berlin, Berlin, Germany</p>
                             </div>
                         </div>
@@ -110,12 +103,43 @@ include "navbar.php";
                     <div class="col-lg-4">
                         <div class="event__item">
                             <div class="event__item__pic set-bg" data-setbg="img/events/event-2.jpg">
-                                <div class="tag-date">
-                                    <span>Dec 15, 2019</span>
-                                </div>
+                               
                             </div>
                             <div class="event__item__text">
-                                <h4>David Guetta Miami Ultra</h4>
+                                <h4>Analitics & Reporting</h4>
+                                <p><i class="fa fa-map-marker"></i> Funkhaus Berlin, Berlin, Germany</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4">
+                        <div class="event__item">
+                            <div class="event__item__pic set-bg" data-setbg="img/events/event-2.jpg">
+                               
+                            </div>
+                            <div class="event__item__text">
+                                <h4>Music Publishing</h4>
+                                <p><i class="fa fa-map-marker"></i> Funkhaus Berlin, Berlin, Germany</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4">
+                        <div class="event__item">
+                            <div class="event__item__pic set-bg" data-setbg="img/events/event-2.jpg">
+                               
+                            </div>
+                            <div class="event__item__text">
+                                <h4>Music Investment</h4>
+                                <p><i class="fa fa-map-marker"></i> Funkhaus Berlin, Berlin, Germany</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4">
+                        <div class="event__item">
+                            <div class="event__item__pic set-bg" data-setbg="img/events/event-2.jpg">
+                               
+                            </div>
+                            <div class="event__item__text">
+                                <h4>MCN Services</h4>
                                 <p><i class="fa fa-map-marker"></i> Funkhaus Berlin, Berlin, Germany</p>
                             </div>
                         </div>
@@ -138,12 +162,10 @@ include "navbar.php";
                 <div class="col-lg-6">
                     <div class="about__text">
                         <div class="section-title">
-                            <h2>DJ Alexandra Rud</h2>
-                            <h1>About me</h1>
+                            <h2>Why Barakati Melodies?</h2>
+                            <h1>About Us</h1>
                         </div>
-                        <p>DJ Rainflow knows how to move your mind, body and soul by delivering tracks that stand out
-                            from the norm. As if this impressive succession of high impact, floor-filling bombs wasn’t
-                            enough to sustain.</p>
+                        <p>We fulfill your every need</p>
                         <a href="#" class="primary-btn">CONTACT ME</a>
                     </div>
                 </div>
@@ -484,41 +506,6 @@ include "navbar.php";
     </section>
     <!-- Youtube Section End -->
 
-    <!-- Countdown Section Begin -->
-    <section class="countdown spad set-bg" data-setbg="img/countdown-bg.jpg">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12">
-                    <div class="countdown__text">
-                        <h1>Tomorrowland 2020</h1>
-                        <h4>Music festival start in</h4>
-                    </div>
-                    <div class="countdown__timer" id="countdown-time">
-                        <div class="countdown__item">
-                            <span>20</span>
-                            <p>days</p>
-                        </div>
-                        <div class="countdown__item">
-                            <span>45</span>
-                            <p>hours</p>
-                        </div>
-                        <div class="countdown__item">
-                            <span>18</span>
-                            <p>minutes</p>
-                        </div>
-                        <div class="countdown__item">
-                            <span>09</span>
-                            <p>seconds</p>
-                        </div>
-                    </div>
-                    <div class="buy__tickets">
-                        <a href="#" class="primary-btn">Buy tickets</a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- Countdown Section End -->
 
     <?php
 include "footeer.php";
